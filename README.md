@@ -1,4 +1,7 @@
-## Hi there 👋
+## hello why are you here
+i make projects with python and html
+that's about it
+leave please
 
 <!--
 **GamingJokie/GamingJokie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
